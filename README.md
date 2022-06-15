@@ -6,7 +6,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/2zyyyyy/github-profilinator)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -21,7 +21,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://2zyyyyy.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -61,11 +61,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=2zyyyyy&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2zyyyyy&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
 
 <br/>  
