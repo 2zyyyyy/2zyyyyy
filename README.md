@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=2zyyyyy)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Golang](https://img.shields.io/badge/-Git-00BFFF?style=flat-square&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00BFFF?style=flat-square&logo=git&logoColor=white)
 
 <!--
 **2zyyyyy/2zyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
