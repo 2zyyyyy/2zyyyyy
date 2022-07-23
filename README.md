@@ -7,13 +7,13 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/2zyyyyy/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Golang and TypeScript  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡   
 
 </td><td valign="top" width="50%">
 <div align="center">
