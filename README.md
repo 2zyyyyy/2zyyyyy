@@ -1,21 +1,16 @@
 ## Hey 👋, I'm 2zyyyyy   
 ![Profile views counter](https://komarev.com/ghpvc/?username=2zyyyyy&&style=flat-square) 
 <br/>  
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/2zyyyyy/github-profilinator)  
   
 
 - 🌱 I’m currently learning Golang and TypeScript  
   
+- ...
 
-- ❓  
-  
-
-- ⚡   
-
-</td><td valign="top" width="50%">
+<!-- </td><td valign="top" width="100%"> -->
 <div align="center">
 <img src="https://2zyyyyy.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -30,10 +25,19 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
   
 <img style="margin: 10px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1h38w2tvrl3j20i308p0su.jpg" alt="testng" height="75" /> 
-<img style="margin: 10px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1h38w5wux07j205k05kt8m.jpg" alt="pytest" height="75" /> 
+<img style="margin: 10px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1h38w5wux07j205k05kt8m.jpg" alt="pytest" height="75" />
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/aUdpS6fXozjFMeq.png" alt="unittest" height="75" />
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/uD5XxoMZte1qmHs.png" alt="charles" height="75" />
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/KCmVrske2XicRf7.png" alt="fiddler" height="75" />
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/E5odrRyZX17438n.png" alt="whistle" height="75" />
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/KzSgF4wDYORZhPH.png" alt="allure" height="75" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" height="75" />
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/rBAIKaenSCkX3Ez.png" alt="gorm" height="75" />
 <img style="margin: 10px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1h38w9e6snyj20ig0hvt9h.jpg" alt="jmeter" height="75" /> 
 <img style="margin: 10px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1h38wbrzsv1j20u00b374u.jpg" alt="postman" height="75" />   
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/JMBpfdgWKtrmbc8.png" alt="apifox" height="75" /> 
 <img style="margin: 10px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1h38wkf9xjuj20ma0aadge.jpg" alt="appium" height="75" /> 
+<img style="margin: 10px" src="https://s2.loli.net/2022/11/27/nEYHouq6Q3CUJd4.png" alt="selenium" height="75" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
