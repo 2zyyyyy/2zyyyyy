@@ -4,11 +4,10 @@
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Github Profilinator](https://profilinator.rishav.dev/)  
-  
 
 - 🌱 I’m currently learning Golang and TypeScript  
   
-- ...
+- ❓ ...
 
 <!-- </td><td valign="top" width="100%"> -->
 <div align="center">
