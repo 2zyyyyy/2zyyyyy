@@ -3,7 +3,7 @@
 <br/>  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/2zyyyyy/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://profilinator.rishav.dev/)  
   
 
 - 🌱 I’m currently learning Golang and TypeScript  
